@@ -1,42 +1,76 @@
-# Hi there, I'm Bell (Khanawat) 👋
-
-### ☁️ DevOps Engineer Specialist | ISTP | Tech Enthusiast
-
-Experienced DevOps Engineer focused on building scalable, secure, and automated infrastructure. I thrive on the **"Shift Left"** philosophy and believe in the power of clean code and robust CI/CD pipelines.
-
----
-
-### 🚀 Current Focus & Learning
-- 🎓 Preparing for **GitHub Administration (GH-100)** certification.
-- 🛡️ Enhancing security with **GitHub Advanced Security** & **ArgoCD** patterns.
-- ⚡ Optimizing CI/CD pipelines for faster, more secure delivery.
+<p align="center">
+  <img src="https://img.shields.io/badge/AUTH-LEVEL_ADMIN-00ff00?style=for-the-badge&logo=keybase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/RANK-DEVOPS_SPECIALIST-00ff00?style=for-the-badge&logo=azure-pipelines&logoColor=000000" />
+  <img src="https://img.shields.io/badge/INTEL-ISTP_MODULAR-00ff00?style=for-the-badge&logo=nixos&logoColor=000000" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛡️ OPERATIONAL SUMMARY (ENCRYPTED)
+> **"Automating the invisible. Securing the impossible. Architecting reliability at the speed of code."**
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Cloud & Infrastructure** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
-| **CI/CD & GitOps** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |
-| **Security & Secrets** | ![GitHub](https://img.shields.io/badge/GH_Advanced_Security-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Secrets](https://img.shields.io/badge/Azure_Key_Vault-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-| **Workstation** | ![macOS](https://img.shields.io/badge/Work_on_macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows 11](https://img.shields.io/badge/Gaming_on_Windows_11-%230078d4.svg?style=for-the-badge&logo=windows-11&logoColor=white) |
+Experienced **DevOps Engineer Specialist** dedicated to building secure, scalable, and zero-bloat infrastructure. Operating under a **Shift-Left** mindset, I ensure that every pipeline is a fortress and every environment is optimized for peak performance.
 
 ---
 
-### 🔒 Core Principles & Workflow
-- 🛡️ **Shift Left:** Implementing security scanners and tests as early as possible.
-- 📝 **Naming Standards:** Strict adherence to **PascalCase** for secrets and structured repo naming.
-- ⚙️ **Clean Setup:** Minimalist and bloatware-free environments for peak efficiency.
+### 🏗️ THE ARCHITECT'S ARSENAL (TECH STACK)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ CI/CD & GitOps</h4>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔒 Security & Governance</h4>
+      <img src="https://img.shields.io/badge/GH_Advanced_Security-181717?style=flat-square&logo=github&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Azure_Key_Vault-0072C6?style=flat-square&logo=microsoft-azure&logoColor=white" /> 
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Terminal & Automation</h4>
+      <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🕹️ Beyond the Terminal
-- **Gaming:** ![Dota 2](https://img.shields.io/badge/Dota_2-%23F5222D.svg?style=flat-square&logo=dota2&logoColor=white) Enthusiast | High-performance gear (180Hz / 8K Polling).
-- **Design:** Modern Minimalist (Scandinavian style, Grey & White, Light Oak).
-- **Tech Hybrid:** Bridging the gap between **Apple stability** (Mac mini M4) and **Samsung innovation** (Z Fold 7).
+### 🧬 CORE SYSTEM PROTOCOLS
+
+- 🧪 **Shift-Left Security:** Integrating SAST/DAST and Secret Scanning from the first commit. 
+- 📐 **Global Naming Standards:** Strict **PascalCase** enforcement for all Secrets and Cloud resources.
+- 🧹 **Anti-Bloat Methodology:** Deep OS optimization. Disabling non-essential services for maximum efficiency.
+- ⚙️ **Infrastructure as Code:** Fully committed to Terraform and Kubernetes manifests.
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
+### 📡 MISSION STATUS: ACTIVE
+- 🎓 **[OP: GH-100]** GitHub Administration Mastery `[▓▓▓▓▓▓░░░░] 60%`
+- 🛡️ **[OP: CITADEL]** Hardening Azure Landing Zones & Secrets Governance
+
+---
+
+### 🖥️ COMMAND CENTER (HARDWARE GRID)
+
+```yaml
+Workstation_Alpha:
+  OS: macOS (Work/Production) | Mac mini M4
+  Environment: Minimalist / Light Oak
+Tactical_Unit:
+  OS: Windows 11 (Gaming/Personal) | ASUS ROG Flow Z13
+  Input: ROG Harpe Ace (8000Hz Polling) | 180Hz Link
+Mobile_Ops:
+  Device: Samsung Galaxy Z Fold 7
